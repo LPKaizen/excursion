@@ -2,7 +2,6 @@ body
 {
   background-color: black;
   text-align: center;
-
 }
 
 #title
@@ -14,6 +13,9 @@ body
    font-family: verdana;
 }
 
+/*
+*****this formats the text of the second and third titles
+*/
 .titletwo
 {
    font-weight: 300;
@@ -28,6 +30,11 @@ body
    color: grey;
 }
 
+
+/*
+font formatting for the download link
+*/
+
 .fontformat
 {
    color: aquamarine;
@@ -36,7 +43,9 @@ body
    font-family: verdana;
 }
 
-
+/*
+*****copyright font formatting
+*/
 .copyright
 {
    text-align: right;
